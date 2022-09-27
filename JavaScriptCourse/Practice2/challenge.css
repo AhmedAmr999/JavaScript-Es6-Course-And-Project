@@ -1,0 +1,12 @@
+#apple-el{
+    background-color: indianred;
+    width: 200px;
+    height: 200;
+    border-radius: 25px;
+}
+#orange-el{
+    background-color: orange;
+    width: 200px;
+    height: 200;
+    border-radius: 25px;
+}
